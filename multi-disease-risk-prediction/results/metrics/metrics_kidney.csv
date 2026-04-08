@@ -1,0 +1,5 @@
+Model,Disease,Accuracy,Precision,Recall,F1 Score,AUC-ROC
+Logistic Regression,kidney,0.9875,1.0,0.98,0.9899,1.0
+Random Forest,kidney,1.0,1.0,1.0,1.0,1.0
+XGBoost,kidney,0.9875,1.0,0.98,0.9899,1.0
+Voting Ensemble,kidney,1.0,1.0,1.0,1.0,1.0

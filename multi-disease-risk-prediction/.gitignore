@@ -1,0 +1,40 @@
+# ── Python ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environment ──────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Jupyter Notebooks ────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Data (raw & processed – too large for Git) ───────
+data/raw/
+data/processed/
+
+# ── Trained models (binary blobs) ────────────────────
+models/saved_models/
+
+# ── IDE / editor files ───────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS files ─────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Misc ─────────────────────────────────────────────
+*.log
+*.bak
+*.tmp

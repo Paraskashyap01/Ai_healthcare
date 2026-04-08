@@ -1,0 +1,5 @@
+Model,Disease,Accuracy,Precision,Recall,F1 Score,AUC-ROC
+Logistic Regression,heart,0.8852,0.8387,0.9286,0.8814,0.9524
+Random Forest,heart,0.8197,0.7429,0.9286,0.8254,0.9432
+XGBoost,heart,0.8361,0.7647,0.9286,0.8387,0.9318
+Voting Ensemble,heart,0.8525,0.7714,0.9643,0.8571,0.9448
